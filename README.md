@@ -12,7 +12,7 @@ Repositori ini menyediakan berbagai **Text Packs** dan **Icons Packs** yang dira
 Nama file Unicode yang Anda ambil **tidak harus mengikuti nama file asli di repositori ini**.  
 Anda dapat mengganti nama file sesuai kebutuhan Anda, misalnya:  
 - Dari `1.png` menjadi `glyph_E1.png`  
-- Dari `2.png` menjadi `my_custom_icon.png`  
+- Dari `2.png` menjadi `glyph_XX.png`  
 
 Repositori ini fleksibel agar sesuai dengan kebutuhan proyek Anda.  
 ## 🚀 Cara Menggunakan  
